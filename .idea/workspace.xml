@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4846d042-7cd4-48d8-a383-2cf491674618" name="Default Changelist" comment="" />
+    <list default="true" id="4846d042-7cd4-48d8-a383-2cf491674618" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/chat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/chat/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/main/consumers.py" beforeDir="false" afterPath="$PROJECT_DIR$/chat/main/consumers.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chat/chat/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+            <state relative-caret-position="506">
+              <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -64,10 +69,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chat/main/consumers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state>
               <folding>
-                <element signature="e#20#58#0" expanded="true" />
+                <element signature="e#20#81#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,6 +123,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -128,8 +135,8 @@
         <option value="$PROJECT_DIR$/chat/main/views.py" />
         <option value="$PROJECT_DIR$/chat/main/urls.py" />
         <option value="$PROJECT_DIR$/chat/main/routing.py" />
-        <option value="$PROJECT_DIR$/chat/main/consumers.py" />
         <option value="$PROJECT_DIR$/chat/chat/routing.py" />
+        <option value="$PROJECT_DIR$/chat/main/consumers.py" />
         <option value="$PROJECT_DIR$/chat/chat/settings.py" />
       </list>
     </option>
@@ -140,11 +147,13 @@
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,11 +176,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -202,16 +211,19 @@
       <workItem from="1558533409501" duration="5035000" />
       <workItem from="1558740011672" duration="1750000" />
       <workItem from="1558742979897" duration="2000" />
+      <workItem from="1558796829065" duration="1613000" />
+      <workItem from="1558799161721" duration="1133000" />
+      <workItem from="1558801086859" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6787000" />
+    <option name="totallyTimeSpent" value="9916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25737265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26742628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,8 +252,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chat/chat/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+        <state relative-caret-position="506">
+          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -281,10 +293,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chat/main/consumers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state>
           <folding>
-            <element signature="e#20#58#0" expanded="true" />
+            <element signature="e#20#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
